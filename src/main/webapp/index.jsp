@@ -150,7 +150,7 @@
     </section>
     <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
     <script>
-        $.getJSON( "http://api.covid19india.org/data.json", function( json ) {
+        $.getJSON( "https://api.covid19india.org/data.json", function( json ) {
             var cases = json.statewise[0].confirmed
             document.getElementById("dert").innerText=cases.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
         });

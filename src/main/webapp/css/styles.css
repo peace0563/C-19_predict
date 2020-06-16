@@ -35,6 +35,7 @@ p{
 .feature-box{
   text-align: center;
   padding: 5%;
+  font-weight: bold;
 }
 h3{
   font-family: fantasy;

@@ -215,7 +215,9 @@
   <section id="pricing">
     <i class="icon  fas fa-file-code fa-4x"></i>
     <h2 class="team"> Developers </h2>
-    <h1>III - Anonymous from INDIA</h1>
+    <p>This website is Developed by Core Members of Team Rexxion.
+Ankit Mishra ( Web Developer & Data Science Enthusiast ) along with Avaneesh Shukla ( Data Science Enthusiast )
+      and Akul Maurya ( Jack of All trades, Master of None ) </p>
 </section>
 
 
